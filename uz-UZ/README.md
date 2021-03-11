@@ -1,4 +1,4 @@
-# Tushunchalar lug'ati havolalar bilan
+# Tushunchalar lug'ati havolalari bilan
 
 Diqqat! Har bir mavzu bo'yicha videodarsga havolalar o'z repozitoriylarida joylashtirilgan.
 
@@ -21,12 +21,9 @@ mohiyatni ajratib ko'rsatgan holda muhim bo'lgan narsalarga urg'u berib va muhim
   - Abstraktsiya - muammoni hal qilish uchun etarli bo'lgan haqiqiy ob'ekt modeli (ob'ektlar to'plami)ni haqiqatga yaqinlashtirgan holda umumlashtirish;
   - Abstraktsiya - ob'ektning ma'lum bir tomoni bilan bog'liq bo'lgan, muammoni hal qilish uchun zarur bo'lgan xususiyatlari va munosabatlarining to'plami;
   - [Abstraksiya qatlamlari / Abstraction Layer](https://github.com/HowProgrammingWorks/AbstractionLayers)
-- Парадигма программирования / Programming Paradigm
-  - Парадигма задает набор идей и понятий, допущений и ограничений, концепций,
-  принципов, постулатов, приемов и техники программирования для решения задач
-  на ЭВМ;
-  - Парадигма предлагает модель решения задач, определенный стиль, шаблоны
-  (примеры хороших и плохих решений) применяемых для написания программного кода;
+- Dasturlash paradigmalasi / Programming Paradigm
+  - Paradigma g'oyalar va tushunchalar, ruhsatlar va cheklovlar, kontseptsiyalar, printsiplar, postulatlar, kompyuterda muammolarni hal qilish texnikasi va dasturlash usullarini belgilaydi;
+  - Paradigma muammolarni echish uchun modelni, dastur kodini yozish uchun ishlatiladigan ma'lum bir uslubni, shablonlarni (yaxshi va yomon echimlarning misollarini) taklif qiladi;
 - Синтаксис / Syntax - правила построения программного кода из символов, но не
 затрагивающие смысловую (семантическую) нагрузку кода. Синтаксис определяет
 только формальную структуру кода.

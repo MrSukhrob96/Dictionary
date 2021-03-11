@@ -26,12 +26,7 @@ mohiyatni ajratib ko'rsatgan holda muhim bo'lgan narsalarga urg'u berib va muhim
   - Paradigma muammolarni echish uchun modelni, dastur kodini yozish uchun ishlatiladigan ma'lum bir uslubni, shablonlarni (yaxshi va yomon echimlarning misollarini) taklif qiladi;
 - Sintaksis / Syntax - belgilardan dastur kodini tuzish qoidalari, lekin kodning mano (semantik) yuklanishiga ta'sir qilmaydi. Sintaksis faqat kodning rasmiy tuzilishini belgilaydi.
 - Qiymat / Value - bu xotirada ma'lum bir joyga ma'lum formatda yozilgan va dastur tomonidan boshqariladigan ma'lumotlarni ifodalovchi qiymat.
-- Тип / Type - множество значений и операции, которые могут быть произведены над
-этими значениями. Например, в JavaScript тип `Boolean` предполагает два значения
-`true` и `false` и логические операции над ними, тип  `Null` предполагает одно
-значение `null`, а тип `Number` множество рациональных чисел с дополнительными
-ограничениями на минимальное и максимальное значение, а так же ограничения на
-точность и математические операции `+ - * ** / % ++ -- > < >= <= & | ~ ^ << >>`.
+- Tur / Type - bu qiymatlar bo'yicha bajarilishi mumkin bo'lgan qiymatlar va operatsiyalar to'plami. Masalan, JavaScript-da, `Boolean` turi ikkita qiymatni `true` va `false` va ular bo'yicha mantiqiy operatsiyalarni qabul qiladi, `Null` turi bitta `null` qiymatini oladi, `Number` turi esa minimal va maksimal qiymatlarga qo'shimcha cheklovlar hamda aniqlik bo'yicha cheklovlarga ega bo'lgan ratsional sonlar to'plami va matematik operatsiyalar `+ - * ** / % ++ -- > < >= <= & | ~ ^ << >>`.
   - [Типы данных / Data Types](https://github.com/HowProgrammingWorks/DataTypes)
   - `[5, 'Kiev', true, { city: 'Beijing' }, a => ++a ].map(x => typeof x);`
 - Литерал / Literal - запись значения в коде программы. Например: литералы чисел,

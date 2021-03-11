@@ -24,9 +24,7 @@ mohiyatni ajratib ko'rsatgan holda muhim bo'lgan narsalarga urg'u berib va muhim
 - Dasturlash paradigmalasi / Programming Paradigm
   - Paradigma g'oyalar va tushunchalar, ruhsatlar va cheklovlar, kontseptsiyalar, printsiplar, postulatlar, kompyuterda muammolarni hal qilish texnikasi va dasturlash usullarini belgilaydi;
   - Paradigma muammolarni echish uchun modelni, dastur kodini yozish uchun ishlatiladigan ma'lum bir uslubni, shablonlarni (yaxshi va yomon echimlarning misollarini) taklif qiladi;
-- Синтаксис / Syntax - правила построения программного кода из символов, но не
-затрагивающие смысловую (семантическую) нагрузку кода. Синтаксис определяет
-только формальную структуру кода.
+- Sintaksis / Syntax - belgilardan dastur kodini tuzish qoidalari, lekin kodning mano (semantik) yuklanishiga ta'sir qilmaydi. Sintaksis faqat kodning rasmiy tuzilishini belgilaydi.
 - Значение / Value - величина, записанная в определенное место памяти в
 определенном формате и представляющая данные, которым может манипулировать
 программа.

@@ -27,18 +27,15 @@ mohiyatni ajratib ko'rsatgan holda muhim bo'lgan narsalarga urg'u berib va muhim
 - Sintaksis / Syntax - belgilardan dastur kodini tuzish qoidalari, lekin kodning mano (semantik) yuklanishiga ta'sir qilmaydi. Sintaksis faqat kodning rasmiy tuzilishini belgilaydi.
 - Qiymat / Value - bu xotirada ma'lum bir joyga ma'lum formatda yozilgan va dastur tomonidan boshqariladigan ma'lumotlarni ifodalovchi qiymat.
 - Tur / Type - bu qiymatlar bo'yicha bajarilishi mumkin bo'lgan qiymatlar va operatsiyalar to'plami. Masalan, JavaScript-da, `Boolean` turi ikkita qiymatni `true` va `false` va ular bo'yicha mantiqiy operatsiyalarni qabul qiladi, `Null` turi bitta `null` qiymatini oladi, `Number` turi esa minimal va maksimal qiymatlarga qo'shimcha cheklovlar hamda aniqlik bo'yicha cheklovlarga ega bo'lgan ratsional sonlar to'plami va matematik operatsiyalar `+ - * ** / % ++ -- > < >= <= & | ~ ^ << >>`.
-  - [Типы данных / Data Types](https://github.com/HowProgrammingWorks/DataTypes)
-  - `[5, 'Kiev', true, { city: 'Beijing' }, a => ++a ].map(x => typeof x);`
-- Литерал / Literal - запись значения в коде программы. Например: литералы чисел,
-логических значений, null и undefined, строк, массивов, объектов, функций.
-Литералы могут иметь различный синтаксис, от очень простого, для записи чисел,
-до сложных синтаксических конструкций, для записи объектов.
-- Скаляр / Scalar / Primitive / Atomic value - значение примитивного типа данных.
-Скаляр копируется при присвоении и передается в функцию по значению.
-- Ссылка / Reference указывает на значение ссылочного типа, т.е. не скалярное
-значение, для JavaScript это подтипы `Object, Function, Array`.
-  - [ссылочные типы](https://github.com/HowProgrammingWorks/DataTypes)
-  - [примеры кода по массивам и объектам](https://github.com/HowProgrammingWorks/DataStructures)
+  - [Ma'lumot turlari / Data Types](https://github.com/HowProgrammingWorks/DataTypes)
+  - `[5, 'Tashkent', true, { city: 'Beijing' }, a => ++a ].map(x => typeof x);`
+- Literal - dastur kodida qiymat yozish. Masalan: raqamlar, mantiqiy qiymatlar, null va undefined qatorlar, massivlar, ob'ektlar, funktsiyalar literallari.
+Literallar turli xil sintaksislarga ega bo'lishi mumkin, raqamlarni yozish uchun juda oddiy sintaksisdan ob'ektlarni yozish uchun murakkab sintaksisgacha.
+- Skalyar / Scalar / Primitive / Atomic value - primitiv ma'lumotlar turining qiymati.
+Skalyar o'zlashtirilganda ko'chiriladi va funktsiyaga qiymati bo'yicha uzatiladi.
+- Havola / Reference - havolali turidagi qiymatga ishora qiladi, yani skalyar bo'lmagan qiymatga, JavaScript uchun bu `Object, Function, Array`.
+  - [havolali turlar](https://github.com/HowProgrammingWorks/DataTypes)
+  - [massivlar va ob'ektlar bo'yicha kodga misollar](https://github.com/HowProgrammingWorks/DataStructures)
 - Идентификатор / Identifier - имена переменных, констант, функций, методов,
 аргументов, классов, как внутренние, так и импортированные из других модулей и
 глобальные.

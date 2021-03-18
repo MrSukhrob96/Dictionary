@@ -39,9 +39,7 @@ Skalyar o'zlashtirilganda ko'chiriladi va funktsiyaga qiymati bo'yicha uzatiladi
 - Identifikator / Identifier - ichki va tashqi modullardan import qilingan va global o'zgaruvchilar, konstantalar, funktsiyalar, method-lar, argumentlar, class-lar nomlari.
 - [O'zgaruvchi / Variable](https://github.com/HowProgrammingWorks/DataTypes) -
 bu ma'lumot turi, manzili va qiymatiga ega bo'lgan nomlangan xotira maydoni (identifikator). O'zgaruvchining qiymatini konstantadan farqli o'laroq o'zgartirishimiz mumkin (va ba'zi tillar uchun esa turini ham): `let cityName = 'Tashkent';`
-- Присвоение / Assignment - связывания значения и идентификатора (например
-переменной). Операция присвоения во многих языках возвращает присваиваемое
-значение (имеет поведение выражения).
+- Biriktirish / Assignment - qiymat va identifikatorni (masalan: o'zgaruvchi) bog'lash. Ko'pgina tillarda biriktirish jarayoni tayinlangan qiymatni qaytaradi (ifoda feliga ega).
 - [Константа / Constant](https://github.com/HowProgrammingWorks/DataTypes) -
 идентификатор, с которым связано неизменяемое значение и тип:
 `const WATCH_TIMEOUT = 5000;`

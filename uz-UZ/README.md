@@ -48,9 +48,7 @@ kompozitsion turlar yoki tuzilmalar birlashtirilgan bir nechta skalyar qiymatlar
 - [Sanaladigan turlar / Enumerated types](https://github.com/HowProgrammingWorks/Enum)
 - Bayroq / Flag - Biror narsaning holatini belgilaydigan mantiqiy qiymat, masalan, ulanishni yopish belgisi, ma'lumotlar tarkibidagi qidiruvni yakunlash belgisi va boshqalar.
 Masalan: `let flagName = false;` Ba'zan, mantiqiy emas, balki sanaladigan turlarni bayroqlar deb atash mumkin.
-- Алгоритм / Algorithm - это формальное описание порядка вычислений для
-определенного класса задач за конечное время (способность завершаться для любого
-множества входных данных).
+- Algoritm / Algorithm - bu cheklangan vaqt ichida ma'lum bir sinf muammolari uchun hisoblash tartibini rasmiy tavsifi (har qanday kirish ma'lumotlari to'plami uchun bajarish qobiliyati).
 - Программа / Program - программный код и данные, объединенные в одно целое для
 вычисления и управления ЭВМ.
 - Инженерия / Engineering - извлечение практической пользы из имеющихся ресурсов

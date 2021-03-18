@@ -45,11 +45,9 @@ o'zgarmas qiymat va turga bog'langan identifikator:
 `const WATCH_TIMEOUT = 5000;`
 - [Strukturaviy turlar / Composed types](https://github.com/HowProgrammingWorks/DataTypes) -
 kompozitsion turlar yoki tuzilmalar birlashtirilgan bir nechta skalyar qiymatlardan iborat bo'lib, shu kombinatsiyalangan qiymat bo'yicha bir qator operatsiyalar bajarilishi mumkin, masalan: obyekt, massiv, to'plam, kortej.
-- [Перечислимые типы / Enumerated types](https://github.com/HowProgrammingWorks/Enum)
-- Флаг / Flag - Логическое значение, определяющее состояние чего-либо, например,
-признак закрытия соединения, признак завершения поиска по структуре данных и т.д.
-Например: `let flagName = false;` Иногда флагами могут называть не логические, а
-перечислимые типы.
+- [Sanaladigan turlar / Enumerated types](https://github.com/HowProgrammingWorks/Enum)
+- Bayroq / Flag - Biror narsaning holatini belgilaydigan mantiqiy qiymat, masalan, ulanishni yopish belgisi, ma'lumotlar tarkibidagi qidiruvni yakunlash belgisi va boshqalar.
+Masalan: `let flagName = false;` Ba'zan, mantiqiy emas, balki sanaladigan turlarni bayroqlar deb atash mumkin.
 - Алгоритм / Algorithm - это формальное описание порядка вычислений для
 определенного класса задач за конечное время (способность завершаться для любого
 множества входных данных).

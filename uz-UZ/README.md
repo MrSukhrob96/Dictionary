@@ -43,10 +43,8 @@ bu ma'lumot turi, manzili va qiymatiga ega bo'lgan nomlangan xotira maydoni (ide
 - [Konstanta / Constant](https://github.com/HowProgrammingWorks/DataTypes) -
 o'zgarmas qiymat va turga bog'langan identifikator:
 `const WATCH_TIMEOUT = 5000;`
-- [Структурные типы / Composed types](https://github.com/HowProgrammingWorks/DataTypes) -
-композитные типы или структуры состоят из нескольких скалярных значений,
-объединенных в одно таким образом, чтоб над этим объединенным значением можно
-выполнять набор операций, например: объект, массив, множество, кортеж.
+- [Strukturaviy turlar / Composed types](https://github.com/HowProgrammingWorks/DataTypes) -
+kompozitsion turlar yoki tuzilmalar birlashtirilgan bir nechta skalyar qiymatlardan iborat bo'lib, shu kombinatsiyalangan qiymat bo'yicha bir qator operatsiyalar bajarilishi mumkin, masalan: obyekt, massiv, to'plam, kortej.
 - [Перечислимые типы / Enumerated types](https://github.com/HowProgrammingWorks/Enum)
 - Флаг / Flag - Логическое значение, определяющее состояние чего-либо, например,
 признак закрытия соединения, признак завершения поиска по структуре данных и т.д.

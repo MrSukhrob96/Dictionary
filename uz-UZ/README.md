@@ -36,13 +36,9 @@ Skalyar o'zlashtirilganda ko'chiriladi va funktsiyaga qiymati bo'yicha uzatiladi
 - Havola / Reference - havolali turidagi qiymatga ishora qiladi, yani skalyar bo'lmagan qiymatga, JavaScript uchun bu `Object, Function, Array`.
   - [havolali turlar](https://github.com/HowProgrammingWorks/DataTypes)
   - [massivlar va ob'ektlar bo'yicha kodga misollar](https://github.com/HowProgrammingWorks/DataStructures)
-- Идентификатор / Identifier - имена переменных, констант, функций, методов,
-аргументов, классов, как внутренние, так и импортированные из других модулей и
-глобальные.
-- [Переменная / Variable](https://github.com/HowProgrammingWorks/DataTypes) -
-именованная область памяти (идентификатор), имеющая тип данных, адрес и
-значение. Мы можем менять значение переменной в отличие от константы (а для
-некоторых языков и тип): `let cityName = 'Beijing';`
+- Identifikator / Identifier - ichki va tashqi modullardan import qilingan va global o'zgaruvchilar, konstantalar, funktsiyalar, method-lar, argumentlar, class-lar nomlari.
+- [O'zgaruvchi / Variable](https://github.com/HowProgrammingWorks/DataTypes) -
+bu ma'lumot turi, manzili va qiymatiga ega bo'lgan nomlangan xotira maydoni (identifikator). O'zgaruvchining qiymatini konstantadan farqli o'laroq o'zgartirishimiz mumkin (va ba'zi tillar uchun esa turini ham): `let cityName = 'Tashkent';`
 - Присвоение / Assignment - связывания значения и идентификатора (например
 переменной). Операция присвоения во многих языках возвращает присваиваемое
 значение (имеет поведение выражения).

@@ -40,8 +40,8 @@ Skalyar o'zlashtirilganda ko'chiriladi va funktsiyaga qiymati bo'yicha uzatiladi
 - [O'zgaruvchi / Variable](https://github.com/HowProgrammingWorks/DataTypes) -
 bu ma'lumot turi, manzili va qiymatiga ega bo'lgan nomlangan xotira maydoni (identifikator). O'zgaruvchining qiymatini konstantadan farqli o'laroq o'zgartirishimiz mumkin (va ba'zi tillar uchun esa turini ham): `let cityName = 'Tashkent';`
 - Biriktirish / Assignment - qiymat va identifikatorni (masalan: o'zgaruvchi) bog'lash. Ko'pgina tillarda biriktirish jarayoni tayinlangan qiymatni qaytaradi (ifoda feliga ega).
-- [Константа / Constant](https://github.com/HowProgrammingWorks/DataTypes) -
-идентификатор, с которым связано неизменяемое значение и тип:
+- [Konstanta / Constant](https://github.com/HowProgrammingWorks/DataTypes) -
+o'zgarmas qiymat va turga bog'langan identifikator:
 `const WATCH_TIMEOUT = 5000;`
 - [Структурные типы / Composed types](https://github.com/HowProgrammingWorks/DataTypes) -
 композитные типы или структуры состоят из нескольких скалярных значений,
